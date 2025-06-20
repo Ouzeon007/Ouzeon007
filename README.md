@@ -58,11 +58,11 @@ Développeur Full Stack passionné par la création de solutions logicielles per
 **ATTENTION :** Remplacez `votre-username` par votre vrai pseudo GitHub dans les liens ci-dessous.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr" alt="Statistiques GitHub de Ousseynou" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Langages les plus utilisés par Ousseynou" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ouzeon007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr" alt="Statistiques GitHub de Ousseynou" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouzeon007&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Langages les plus utilisés par Ousseynou" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=votre-username&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions de Ousseynou" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ouzeon007&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions de Ousseynou" />
 </div>
 
 ---
@@ -73,10 +73,10 @@ Développeur Full Stack passionné par la création de solutions logicielles per
 
 <div align="center">
   <a href="https://github.com/votre-username/nom-du-repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=votre-username&repo=nom-du-repo-1&theme=tokyonight&hide_border=true" alt="Projet 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ouzeon007&repo=nom-du-repo-1&theme=tokyonight&hide_border=true" alt="Projet 1"/>
   </a>
   <a href="https://github.com/votre-username/nom-du-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=votre-username&repo=nom-du-repo-2&theme=tokyonight&hide_border=true" alt="Projet 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ouzeon007&repo=nom-du-repo-2&theme=tokyonight&hide_border=true" alt="Projet 2"/>
   </a>
 </div>
 
