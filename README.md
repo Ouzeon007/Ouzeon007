@@ -73,10 +73,10 @@ Développeur Full Stack passionné par la création de solutions logicielles per
 
 <div align="center">
   <a href="https://github.com/votre-username/nom-du-repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ouzeon007&repo=nom-du-repo-1&theme=tokyonight&hide_border=true" alt="Projet 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ouzeon007&Ges-Absences-Back-Groupe9&theme=tokyonight&hide_border=true" alt="Projet 1"/>
   </a>
   <a href="https://github.com/votre-username/nom-du-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ouzeon007&repo=nom-du-repo-2&theme=tokyonight&hide_border=true" alt="Projet 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ouzeon007&Ges-Absences-Font-Groupe9&theme=tokyonight&hide_border=true" alt="Projet 2"/>
   </a>
 </div>
 
